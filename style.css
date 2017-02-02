@@ -6,7 +6,7 @@ body {
 p {font-size: 16px;}
 .margin {margin-bottom: 45px;}
 .bg-1 {
-    background-color: #1abc9c; /* Green */
+    background-color: #ff5722; /* Orange */
     color: #ffffff;
 }
 .bg-2 {
@@ -35,9 +35,9 @@ p {font-size: 16px;}
     letter-spacing: 5px;
 }
 .feNavBar .navbar-nav li a {
-    color: #1abc9c;
+    color: #ff5722;
 }
 
 .feNavBar .navbar-nav li a:hover {
-    color: #12422e;
+    color: #462212;
 }
