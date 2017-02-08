@@ -7,7 +7,7 @@ p {font-size: 16px;}
 .margin {margin-bottom: 45px;}
 .bg-1 {
     background-color: red; /* Orange */
-    color: #ffffff;
+    color: #000;
 }
 .bg-2 {
     background-color: #474e5d; /* Dark Blue */
